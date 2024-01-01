@@ -1,10 +1,10 @@
 ![Web Based Application Development and Solution Architect  ](https://media.licdn.com/dms/image/D5616AQFa5uoFO5odfw/profile-displaybackgroundimage-shrink_350_1400/0/1704093757447?e=1709769600&v=beta&t=3DZurHrXsGJshveYTm2NWIX-AeB6WgYhLVhWvkmtlJo)
 
 ### Hi there 👋, Barun Kanti Das
-#### Web Based Application Development and Solution Architect  
+#### Web-Based Application Development and Solution Architect  
 
 
-🚀 Over the years, I've honed my skills in Asp .NET MVC CORE API, EF Code First, C#, JavaScript, SQL Server and have a proven track record of delivering high-quality software solutions. My expertise spans across Full-stack development, Cloud Computing, allowing me to contribute effectively to every phase of the software development lifecycle.
+🚀 Over the years, I've honed my skills in Asp .NET MVC CORE API, EF Code First, C#, JavaScript, and SQL Server, and have a proven track record of delivering high-quality software solutions. My expertise spans across Full-stack development and cloud Computing, allowing me to contribute effectively to every phase of the software development lifecycle.
 
 💡 I thrive in dynamic and collaborative environments, where I can leverage my problem-solving abilities to architect robust and scalable systems. Whether it's optimizing code for performance or architecting a new feature, I find joy in turning challenges into opportunities for innovation.
 
@@ -12,7 +12,7 @@
 
 Skills: ASP .NET Core / MVC / API/ C# /T-SQL/ SSRS / SSAS / SSIS / EF/ JS / HTML / CSS
 
-- 🔭 I’m currently working on University of Liberal Arts (ULAB) 
+- 🔭 I’m currently working at the University of Liberal Arts (ULAB) 
 - 🌱 I’m currently learning MAUI, MERN
 
 
