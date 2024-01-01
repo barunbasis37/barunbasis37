@@ -12,7 +12,7 @@
 Skills: ASP .NET Core / MVC / API/ C# /T-SQL/ SSRS / SSAS / SSIS / EF/ JS / HTML / CSS
 
 - 🔭 I’m currently working on University of Liberal Arts (ULAB) 
-- 🌱 I’m currently learning MAUI, Angular,  
+- 🌱 I’m currently learning MAUI, MERN  
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/barunbasis37)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/barun-kanti-das-5809272b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@Development-With-BKDas)  
