@@ -1,30 +1,113 @@
-![Web Based Application Development and Solution Architect  ](https://media.licdn.com/dms/image/D5616AQFa5uoFO5odfw/profile-displaybackgroundimage-shrink_350_1400/0/1704093757447?e=1709769600&v=beta&t=3DZurHrXsGJshveYTm2NWIX-AeB6WgYhLVhWvkmtlJo)
-
-### Hi there 👋, Barun Kanti Das
-#### Web-Based Application Development and Solution Architect  
+![image](https://github.com/user-attachments/assets/2753f473-6590-4fd4-be94-bcb97c5f201b)
 
 
-🚀 Over the years, I've honed my skills in Asp .NET MVC CORE API, EF Code First, C#, JavaScript, and SQL Server, and have a proven track record of delivering high-quality software solutions. My expertise spans across Full-stack development and cloud Computing, allowing me to contribute effectively to every phase of the software development lifecycle.
+**Barun Kanti Das**
+---
+**Senior Software Developer | 14+ Years in ERP, Web Development, Data Management & System Architecture | ASP.NET Core | SQL Server | University ERP Expert**
+---
 
-💡 I thrive in dynamic and collaborative environments, where I can leverage my problem-solving abilities to architect robust and scalable systems. Whether it's optimizing code for performance or architecting a new feature, I find joy in turning challenges into opportunities for innovation.
+#### 🔹 **About (Summary):**
 
-🔧 In addition to my technical prowess, I'm a strong advocate for best practices in software development, including Agile Methodology. I believe in the power of clean code, documentation, and collaborative teamwork to create software that stands the test of time.
+Experienced Senior Software Developer with over 14 years of demonstrated expertise in enterprise-level software solutions, ERP development, project planning, automation, and database systems. I specialize in ASP.NET Core, SQL Server, API integration, and end-to-end web development for the education sector.
 
-Skills: ASP .NET Core / MVC / API/ C# /T-SQL/ SSRS / SSAS / SSIS / EF/ JS / HTML / CSS
+Currently, I lead ERP development and maintenance at the University of Liberal Arts Bangladesh (ULAB), enhancing mission-critical systems like admission, academic, alumni, convocation, conference, IT inventory, and visitor management platforms. With deep proficiency in data security, software testing, version control, and stakeholder coordination, I deliver stable, scalable, and secure solutions.
 
-- 🔭 I’m currently working at the University of Liberal Arts (ULAB) 
-- 🌱 I’m currently learning PYTHON, DJANGO, REACT, MAUI, MERN
+Driven by innovation and strategic thinking, I aim to contribute to transformative digital projects, ensuring high availability, compliance, and impactful user experiences.
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/barunbasis37)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/barun-kanti-das-5809272b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/@Development-With-BKDas)  
+#### 🔹 **Experience:**
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+**Senior Software Developer**
+*University of Liberal Arts Bangladesh (ULAB)*
+📍 Dhaka, Bangladesh
+🗓 Mar 2017 – Present
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=barunbasis37)](https://github.com/ryo-ma/github-profile-trophy)
+* Spearhead the development and maintenance of ULAB’s ERP (URMS and Back Office) covering modules like Convocation, Alumni, OBE, Conference, Room Booking, Visitor Management, and IT Inventory.
+* Design and manage high availability databases using SQL Server (2014), complex queries, replication, SSRS, SSIS, and SSAS.
+* Lead in-house software development using ASP.NET Core, EF6, C#, AJAX, JavaScript, Visual Studio 2019.
+* Conduct requirement analysis, prepare SRS, test scripts, training modules, and deploy solutions with end-user feedback.
+* Ensure compliance in security protocols including SSL, backup, and disaster recovery processes.
+* Regularly coordinate with vendors, users, and stakeholders for system upgrades and testing.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barunbasis37)](https://github.com/anuraghazra/github-readme-stats)
+**Senior Software Developer**
+*Stamford University Bangladesh*
+📍 Dhaka, Bangladesh
+🗓 May 2014 – Feb 2017
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=barunbasis37&show_icons=true&count_private=true)  
+* Developed ASP.NET-based applications including Online Admission, Student Payment Systems (DBBL), Result Search, Employee Management, Alumni Search, and Event Systems.
+* Led the design and implementation of Windows Server 2012 R2 environments with SQL Server, IIS, DNS, and FTP.
+* Created multiple online systems for class schedules, invigilation, fee tracking, and leave management.
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=barunbasis37)  
+**IT Officer / Jr. Executive**
+📍 Dhaka, Bangladesh
+🗓 Feb 2008 – Apr 2014
 
+* Collaborated with teams on software analysis, coding, documentation, and deployment.
+* Delivered training and maintained systems post-deployment for continuity and user adaptation.
+
+---
+
+#### 🔹 **Education:**
+
+**MS in Communication Engineering**
+*United International University (UIU)* — 2009
+
+**B.Sc. in Physics**
+*Shahjalal University of Science & Technology (SUST)* — 2006
+
+---
+
+#### 🔹 **Certifications:**
+
+* Object Oriented Programming (ASP.Net C#) – BITM
+* Microsoft SQL Server Training – Lean Sigma IT Solution
+* PMI-Agile Certified Practitioner (ACP) – PMAspire
+* Advanced .NET with TypeScript + Angular – Code Coopers
+* SSRS Training – Raphael Asghar (Udemy)
+* The Complete ASP.NET MVC 5 Course – Udemy
+* Software Engineering & Testing – BITM
+
+---
+
+#### 🔹 **Skills:**
+
+* ERP System Development
+* ASP.NET Core, MVC, C#
+* SQL Server, SSRS, SSIS, SSAS
+* JavaScript, AJAX
+* API Development & Testing
+* GitHub & Version Control
+* Network Configuration & Security
+* Project Planning & Coordination
+* Agile & Scrum
+* Critical Thinking & Problem Solving
+* Server Management (IIS, DNS, FTP)
+
+---
+
+#### 🔹 **Languages:**
+
+* Bangla – Native
+* English – Fluent
+
+---
+
+#### 🔹 **Projects (GitHub):**
+
+[github.com/barunbasis37](https://github.com/barunbasis37)
+
+---
+
+#### 🔹 **Location:**
+
+Dhaka, Bangladesh
+
+---
+
+#### 🔹 **Contact Info (Optional on LinkedIn):**
+
+📧 [barun.kanti.ca@gmail.com](mailto:barun.kanti.ca@gmail.com)
+📞 +8801712574532
+
+---
