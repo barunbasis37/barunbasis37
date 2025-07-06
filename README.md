@@ -1,6 +1,8 @@
 ---
 
-## 🔷 **LinkedIn Profile for Barun Kanti Das**
+## 🔷 **GitHub Profile for Barun Kanti Das**
+
+---
 
 ![image](https://github.com/user-attachments/assets/2753f473-6590-4fd4-be94-bcb97c5f201b)
 
@@ -37,8 +39,8 @@ Let’s connect if you’re passionate about scalable architecture, clean code, 
 
 ### 🧑‍💼 **Experience**
 
-**Senior Software Developer**
-*University of Liberal Arts Bangladesh (ULAB)*
+**University of Liberal Arts Bangladesh (ULAB)**
+*Senior Software Developer*
 📍 Dhaka, Bangladesh | 🗓 Mar 2017 – Present
 
 **Key Responsibilities:**
@@ -49,8 +51,10 @@ Let’s connect if you’re passionate about scalable architecture, clean code, 
 * Ensure compliance in security protocols including SSL, backup, and disaster recovery processes.
 * Regularly coordinate with vendors, users, and stakeholders for system upgrades and testing.
 
-**Senior Software Developer**
-*Stamford University Bangladesh*
+  ---
+
+**Stamford University Bangladesh**
+*Senior Software Developer*
 📍 Dhaka, Bangladesh | 🗓 May 2014 – Feb 2017
 
 **Key Responsibilities:**
@@ -90,7 +94,7 @@ Add:
 
 ---
 
-#### 🔹 🏆 **Licenses & Certifications**
+#### 🔹 🏆 **Certifications**
 
 * Object Oriented Programming (ASP.Net C#) – BITM
 * Microsoft SQL Server Training – Lean Sigma IT Solution
@@ -139,7 +143,7 @@ Add:
 
 #### 🔹 **Projects (GitHub):**
 
-[github.com/barunbasis37](https://github.com/barunbasis37)
+[GitHub](https://github.com/barunbasis37)
 
 ---
 
@@ -151,7 +155,7 @@ Dhaka, Bangladesh
 
 #### 🔹 **Contact Info (Optional on LinkedIn):**
 📧 [LinkedIn](www.linkedin.com/in/barunkantidas)
-📧 [barun.kanti.ca@gmail.com](mailto:barun.kanti.ca@gmail.com)
+📧 [Gmail](mailto:barun.kanti.ca@gmail.com)
 📞 +8801712574532
 
 ---
